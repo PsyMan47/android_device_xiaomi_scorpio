@@ -1,0 +1,52 @@
+[
+ {
+  "repository": "PsyMan47/android_device_xiaomi_msm8996-common",
+  "target_path": "device/xiaomi/msm8996-common",
+  "branch"     : "7.x"
+ },
+ {
+   "repository" : "LineageOS/android_kernel_xiaomi_msm8996",
+   "target_path": "kernel/xiaomi/msm8996",
+   "branch"     : "cm-14.1"
+ },
+ {
+   "repository" : "DirtyUnicorns/android_vendor_nxp-nfc_opensource_frameworks",
+   "target_path": "vendor/nxp-nfc/opensource/frameworks",
+   "branch"     : "n7x-caf"
+ },
+ {
+   "repository" : "DirtyUnicorns/android_vendor_nxp-nfc_opensource_libnfc-nci",
+   "target_path": "vendor/nxp-nfc/opensource/libnfc-nci",
+   "branch"     : "n7x-caf"
+ },
+ {
+   "repository" : "DirtyUnicorns/android_vendor_nxp-nfc_opensource_Nfc",
+   "target_path": "vendor/nxp-nfc/opensource/Nfc",
+   "branch"     : "n7x-caf"
+ },
+ {
+   "repository" : "DirtyUnicorns/android_system_qcom",
+   "target_path": "system/qcom",
+   "branch"     : "n7x-caf"
+ },
+ {
+   "repository" : "DirtyUnicorns/android_external_ant-wireless_ant_service",
+   "target_path": "external/ant-wireless/ant_service",
+   "branch"     : "n7x-caf"
+ },
+ {
+   "repository" : "DirtyUnicorns/android_external_ant-wireless_ant_native",
+   "target_path": "external/ant-wireless/ant_native",
+   "branch"     : "n7x-caf"
+ },
+ {
+   "repository" : "DirtyUnicorns/android_external_ant-wireless_antradio-library",
+   "target_path": "external/ant-wireless/antradio-library",
+   "branch"     : "n7x-caf"
+ },
+ {
+   "repository" : "TheMuppets/proprietary_vendor_xiaomi",
+   "target_path": "vendor/xiaomi",
+   "branch"     : "cm-14.1"
+ }
+]

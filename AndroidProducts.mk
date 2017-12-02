@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_scorpio.mk
+    $(LOCAL_DIR)/du_scorpio.mk
